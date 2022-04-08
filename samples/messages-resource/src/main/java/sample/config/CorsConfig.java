@@ -25,7 +25,7 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
  * @author Steve Riesenberg
  * @since 0.2.3
  */
-@Configuration
+//@Configuration
 public class CorsConfig {
 
 	@Bean
